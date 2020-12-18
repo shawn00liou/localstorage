@@ -1,7 +1,7 @@
 {
   "name": "localstorage",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.ts",
   "repository": "git@github.com:shawn00liou/localstorage.git",
   "author": "Archer <archer@yaudian.com>",
   "license": "MIT"
